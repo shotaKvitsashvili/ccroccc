@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="23" viewBox="0 0 26 23">
+  <g id="Group_2019" data-name="Group 2019" transform="translate(-439.555 -51.364)">
+    <rect id="Rectangle_1238" data-name="Rectangle 1238" width="26" height="23" transform="translate(439.555 51.364)" fill="#fff" opacity="0"/>
+    <g id="icons8-home_2_" data-name="icons8-home (2)" transform="translate(440.125 52.13)">
+      <path id="Path_454" data-name="Path 454" d="M13.429,2a1.13,1.13,0,1,0,1.13,1.13A1.13,1.13,0,0,0,13.429,2ZM25.294,12.169a.565.565,0,1,0,.565.565A.565.565,0,0,0,25.294,12.169Zm-23.729,0a.565.565,0,1,0,.565.565A.565.565,0,0,0,1.565,12.169Z" transform="translate(-1 -2)" fill="#fff"/>
+      <path id="Path_455" data-name="Path 455" d="M14.205,2.3l-.8.908L12.6,2.3,1.2,12.242l.336,1.019H4.363V22.3a1.13,1.13,0,0,0,1.13,1.13h4.52a1.13,1.13,0,0,0,1.13-1.13v-6.78h4.52V22.3a1.13,1.13,0,0,0,1.13,1.13h4.52a1.13,1.13,0,0,0,1.13-1.13V13.261h2.825l.336-1.019Z" transform="translate(-0.974 -1.962)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
